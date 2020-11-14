@@ -7,7 +7,7 @@
 
 int incomingByte = 0; // for incoming serial data
 
-// Module connection pins (Digital Pins)
+// Module connection pins
 #define CLK A1
 #define DIO A0
 
