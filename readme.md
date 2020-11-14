@@ -14,11 +14,15 @@ With the new Halloween update (21-10-20) many new features were added including 
 * A 7-digit display, I used a TM1637 clone.
 * Some M-F hookup wires.
 
+
 ![alt text](https://github.com/BennyBones/TLDspeedo/blob/main/ardunio1.jpg "Arduino")
 
 VCC on the display to 5v on the arduino
+
 GND to GND
+
 CLK to A1
+
 DIO to A0
 
 Upload the sketch to the arduino.
