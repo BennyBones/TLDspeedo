@@ -1,6 +1,7 @@
 # The Long Drive Real World Speedometer
 
-*I love playing the long drive. For such a weird and quirky, mindless driving simulator I just keep coming back for more. I even went out and picked up a steeting wheel for it.*
+*I love playing the long drive. For such a weird and quirky, mindless driving simulator I just keep coming back for more. I even went out and picked up a steeting wheel for it.*  
+[The Long Drive](https://store.steampowered.com/app/1017180/The_Long_Drive/)
 
 With the new Halloween update (21-10-20) many new features were added including an output for a real world arduino speedo. After spending some time looking to see if anyone else had done it yet with no luck, I thought I'd give it a shot. I only have basic arduino skills, but here we go, it's a start.
 
@@ -42,3 +43,6 @@ In that .txt you just have to type the port your arduino is plugged in to, for m
 I have an old Holden Barina instrument cluster I want to make work in this way, but I have to work out what's going on in there.
 
 ![alt text](https://github.com/BennyBones/TLDspeedo/blob/main/HoldenSpeedo.jpg "Holden XC combo instrument cluster")
+
+Pick up the game, The Long Drive on steam and help suport the developers!
+[https://store.steampowered.com/app/1017180/The_Long_Drive/](https://store.steampowered.com/app/1017180/The_Long_Drive/)
